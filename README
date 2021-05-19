@@ -1,0 +1,10 @@
+Universality of gauge coupling constant in the Einstein-QED system
+L. Ibiapina Bevilaqua, A. C. Lehum, Huan Souza
+
+Files:
+
+Einstein_QED_2.zip contains the FeynArts model files. These files have to be put inside the “Model” folder of your FeynArts installation.
+
+QED_Gravity.nb is the Mathematica notebook where calculations are done.
+
+results.zip contains the UV divergent part of the one-loop corrections to the electromagnetic vertex interaction. 
